@@ -2,7 +2,7 @@
 
 The Proxy pattern is a structural design pattern that provides a surrogate or placeholder object for another object to control access to it. This pattern is used to create a representative object that can be used in place of a real object.
 
-## The  Proxy Pattern
+## The Proxy Pattern should be used when: 
 Pattern Pattern should be used when:
 The Proxy pattern should be used when:
 
