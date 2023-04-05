@@ -1,6 +1,6 @@
-package org.pattern.structural.facede.somecomplexmidialibary;
+package org.pattern.structural.facede;
 
-import org.pattern.structural.facede.somecomplexmidialibary.facade.VideoConversionFacade;
+import org.pattern.structural.facede.facade.VideoConversionFacade;
 
 public class Main {
 

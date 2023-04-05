@@ -1,4 +1,4 @@
-package org.pattern.structural.facede.somecomplexmidialibary.libary;
+package org.pattern.structural.facede.libary;
 
 public class CodecFactory {
     public static Codec extract(VideoFile file) {

@@ -1,6 +1,6 @@
-package org.pattern.structural.facede.somecomplexmidialibary.facade;
+package org.pattern.structural.facede.facade;
 
-import org.pattern.structural.facede.somecomplexmidialibary.libary.*;
+import org.pattern.structural.facede.libary.*;
 
 import java.io.File;
 

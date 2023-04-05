@@ -1,4 +1,4 @@
-package org.pattern.structural.facede.somecomplexmidialibary.libary;
+package org.pattern.structural.facede.libary;
 
 public class BitrateReader {
     public static VideoFile read(VideoFile file, Codec codec) {
